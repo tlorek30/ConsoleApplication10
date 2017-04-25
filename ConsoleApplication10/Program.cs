@@ -8,8 +8,8 @@ namespace ConsoleApplication10
 {
     public class Prostokat // Definicja klasy.
     {
-        public int a, b;   // Czlonkowie klasy:
-                              
+        public int a, b;   // Czlonkowie klasy, dł bokow:
+        public int[,] tab;           
 
 
         public int Metoda() // Metoda.
@@ -22,6 +22,7 @@ namespace ConsoleApplication10
         {
             a = 0;
             b = 0;
+            tab[0, 0]  =0;
         
         }
     }
@@ -34,6 +35,7 @@ namespace ConsoleApplication10
             
             klocek.a = 2;                       //Nadanie wartosci
             klocek.b = 3;
+            klocek.tab[0, 0] = 0;
            
 
             int wynik = klocek.Metoda();   // wywolanie publicznej metody.

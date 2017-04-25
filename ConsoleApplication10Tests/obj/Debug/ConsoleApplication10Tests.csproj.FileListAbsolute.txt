@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\obj\Debug\ConsoleApplication10Tests.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\bin\Debug\ConsoleApplication10Tests.dll
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\bin\Debug\ConsoleApplication10Tests.pdb
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\bin\Debug\ConsoleApplication10.exe
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\bin\Debug\ConsoleApplication10.pdb
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\obj\Debug\ConsoleApplication10Tests.dll
+c:\users\student\documents\visual studio 2015\Projects\ConsoleApplication10\ConsoleApplication10Tests\obj\Debug\ConsoleApplication10Tests.pdb
