@@ -15,7 +15,9 @@ namespace ConsoleApplication10
         public int Metoda() // Metoda.
 
         {
-            return a * b;
+           return  tab[1, 0] = a;
+           
+
         }
 
         public Prostokat()     // Konstruktor.
