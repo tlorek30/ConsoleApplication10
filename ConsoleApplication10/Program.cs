@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication10
 {
-    public class prostokat // definicja klasy.
+    public class Prostokat // Definicja klasy.
     {
-        public int a, b;   // czlonkowie klasy:
-        public int[] tabprost;             
+        public int a, b;   // Czlonkowie klasy:
+                              
 
-        public int punkty() // Metoda.
+
+        public int Metoda() // Metoda.
 
         {
-            return 0;
-  
+            return a * b;
         }
 
-        public prostokat()     // konstruktor.
+        public Prostokat()     // Konstruktor.
         {
             a = 0;
             b = 0;
-            tabprost[2]=0;
+        
         }
     }
     class Program
@@ -30,14 +30,14 @@ namespace ConsoleApplication10
         static void Main(string[] args)
         {
 
-            prostokat figura = new prostokat(); // utworzenie obiektu.
+            Prostokat klocek = new Prostokat(); // Utworzenie obiektu
             
-            figura.a = 2; //nadanie wartosci
-            figura.b = 3;
-            figura.tabprost = 0;
+            klocek.a = 2;                       //Nadanie wartosci
+            klocek.b = 3;
+           
 
-            int wynik = prostokat.punkty();   // wywolanie publicznej metody
-            Console.WriteLine(wynik);       //wyswietlenie wyniku
+            int wynik = klocek.Metoda();   // wywolanie publicznej metody.
+            Console.WriteLine(wynik);       //wyswietlenie wyniku metody
             Console.ReadLine();
         }
     }
