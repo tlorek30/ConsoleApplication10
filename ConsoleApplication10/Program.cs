@@ -12,8 +12,8 @@ namespace ConsoleApplication10
         public int[,] tab = new int [2,2];           
 
 
-        public int Metoda() // Metoda.
-
+        public int Metoda()         // Algorytm ma obl. wsp. pkt figury, na podst. wprowadzonych danych (dł,wys), znany P0(0,0).
+                                    // Przykład: Dla a=2, b=3 P0, P1(0+2,0), P2(0,0+3), P3(2,0+3).
         {
            return  tab[1, 0] = a;
            
